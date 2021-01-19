@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="tlo">#09655C</color>
+    <color name="tytul">#BAE8E3</color>
+    <color name="tekst_akapitowy">#D0E1DF</color>
+</resources>

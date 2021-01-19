@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Atlas</string>
+    <string name="zrodlo">Source: Wikipedia.pl</string>
+    <string name="opis_ws">Back</string>
+    <string name="opis_np">Forward</string>
+
+    <string-array name="names">
+        <item>Boletus edulis</item>
+        <item>Bunny boletus</item>
+        <item>Red fly agaric</item>
+        <item>Kite mushroom</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item> a species of mushrooms from the boletus family, commonly known as boletus</item>
+        <item>species of mushrooms from the boletus family</item>
+        <item>a species of fungi belonging to the toadstool family - inedible </item>
+        <item>a species of fungi belonging to the mushroom family</item>
+    </string-array>
+</resources>

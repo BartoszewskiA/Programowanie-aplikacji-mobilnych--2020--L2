@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ekran_Logowania</string>
+    <string name="prompt_password">Tu wpisz hasło</string>
+    <string name="prompt_email">Tu wpisz e-mail</string>
+    <string name="action_sign_in">Zaloguj</string>
+    <string-array name="users">
+        <item>ktos@wp.pl</item>
+        <item>ktos_innt@wp.pl</item>
+    </string-array>
+    <string-array name="passwords">
+        <item>admin</item>
+        <item>12345</item>
+    </string-array>
+</resources>
